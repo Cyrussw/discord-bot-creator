@@ -13,7 +13,8 @@ Dip Not: Bu Program Sadece İnsanlarda Çalışır.
 
 1. Bu projeyi bilgisayarınıza klonlayın veya indirin.
 2. `config.py` dosyasını güncelleyin.
-3. `bot.py` ile botu başlatın.
+3. `command()` ile komut oluşturun.
+4. `bot.py` ile botu başlatın.
 
 ## Yazarlar
 
