@@ -42,7 +42,7 @@ def heartbeat(interval, ws):
         }
 
         send_json_request(ws, heartbeatJSON)
-        print("Sairus: Dinleme Gönderildi")
+        print(f'{botName}: Dinleme Gönderildi')
 
 
 def command(prompt, message, ownerOnly=0, testerOnly=0, url=""):
